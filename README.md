@@ -13,3 +13,11 @@ The data for this project come from this [source](http://groupware.les.inf.puc-r
 ## Expected Results
 1. Our submission should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders if we submit a repo with a gh-pages branch so the HTML page can be viewed online.
 2. We should also apply our machine learning algorithm to the 20 test cases available in the test data above. We will submit our predictions in appropriate format to the programming assignment for automated grading.
+
+## Machine Learning Model For Predictions
+1. Decision Tree
+2. Random Forests
+
+## Reports
+1. The R markdown file (Rmd) -> Practical Machine Learning - Course Project.Rmd 
+2. The HTML Report -> Practical_Machine_Learning_-_Course_Project.html
