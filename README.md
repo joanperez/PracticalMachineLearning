@@ -19,5 +19,5 @@ The data for this project come from this [source](http://groupware.les.inf.puc-r
 2. Random Forests
 
 ## Reports
-1. The R markdown file (Rmd) -> Practical Machine Learning - Course Project.Rmd 
-2. The HTML Report -> Practical_Machine_Learning_-_Course_Project.html
+1. [The R markdown file (Rmd)](https://github.com/joanperez/PracticalMachineLearning/blob/master/Practical%20Machine%20Learning%20-%20Course%20Project.Rmd) 
+2. [The HTML Report](https://cdn.rawgit.com/joanperez/PracticalMachineLearning/123ed98d/Practical_Machine_Learning_-_Course_Project.html)
